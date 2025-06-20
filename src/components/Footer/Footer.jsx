@@ -17,11 +17,11 @@ function Footer() {
           })}
       </div>
       <div className={containerPayment}>
-        <p>Guaranteed safe ckeckout</p>
+        <p>Guaranteed safe checkout</p>
         <img src={paymentImg} alt='' />
       </div>
       <div>
-        Copyright © 2025 Hung Nguyen. Created by Hung Nguyen.
+        Copyright © 2025 Pham Thi Hoa Limited. Created by Pham Thi Hoa Limited.
       </div>
     </div>
   );
